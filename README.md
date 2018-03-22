@@ -1,7 +1,11 @@
 # pycckuu-loader
 Loader для Webpack для руссификации JavaScript. Позволяет заменить английские ключевые слова на русские.   
 Достаточно установить npm-пакет и добавить pycckuu-loader в ваш webpack.config.js для файлов с расширением.яс.
-   
+
+Как установить nmp-пакет 
+https://www.npmjs.com/package/pycckuu 
+
+
 Пример:
 ```javascript
 пер сотрудники = ['Владимир', 'Дмитрий', 'Николай']
